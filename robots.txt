@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://retiredjackaroo.github.io/jr-dog-training/sitemap.xml
